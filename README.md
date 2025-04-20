@@ -3,7 +3,7 @@
 Bring **pure, unhinged chaos** to any website with this cursed bookmarklet. Every 5 seconds, a random meme pops up **and** a random meme sound blasts from your speakers. Nobody asked for this. You're doing this because you can.
 
 ## 🔥 Features
-- Spawns a new meme image every 5 seconds.
+- Spawns a new meme image every 2 seconds.
 - Plays a random meme sound with each spawn.
 - Memes appear at random positions and spin for extra nonsense.
 - Works on **any** webpage (except super-restricted ones like YouTube Studio or browser settings).
