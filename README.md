@@ -59,5 +59,5 @@ javascript:(function(){
     // Play meme sound
     const audio = new Audio(sounds[Math.floor(Math.random() * sounds.length)]);
     audio.play();
-  }, 5000);
+  }, 2000);
 })();
