@@ -16,7 +16,7 @@ Bring **pure, unhinged chaos** to any website with this cursed bookmarklet. Ever
 ## 🚀 How to Use
 
 1. **Copy the Bookmarklet Code**  
-   Click [here](#the-chaos-code) or scroll down to grab the full code.
+  scroll down to grab the full code.
 
 2. **Create a New Bookmark**  
    - In your browser, right-click the bookmarks bar → “Add page”
